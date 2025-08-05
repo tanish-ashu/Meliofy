@@ -38,7 +38,7 @@ nav ul li{
 }
 
 .container{
-  min-height: 75vh;
+  min-height: 75vh;  /* 75 percentage of width */
 }
 
 .botton{
@@ -53,6 +53,6 @@ nav ul li{
 }
 
 #myProgressBar{
-  width: 80vw;
+  width: 80vw; /* 80 percentage of width */
 }
 
